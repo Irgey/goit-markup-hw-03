@@ -200,7 +200,7 @@ header {
 .features-list .item {
   width: 270px;
 }
-.advantages {
+.features-list {
   display: flex;
   gap: 30px;
 }
