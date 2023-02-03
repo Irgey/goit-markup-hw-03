@@ -279,7 +279,7 @@ header {
 /* Projects section (portfolio.html) */
 .categories-buttons {
   display: flex;
-  gap: 30px;
+  gap: 8px;
   justify-content: center;
   margin-bottom: 50px;
 }
