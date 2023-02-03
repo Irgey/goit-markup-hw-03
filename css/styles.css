@@ -159,7 +159,7 @@ header {
 /* Hero section */
 .hero-section {
   background-color: var(--secondary-bg-color);
-  background-image: url(/images/Img.jpg);
+  background-image: url(../images/Img.jpg);
   background-attachment: fixed;
   text-align: center;
 }
